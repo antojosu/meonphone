@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+# Dependencies Used
+
+- [sqflite](https://pub.dev/packages/sqflite/)
+- [app_usage](https://pub.dev/packages/app_usage/)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
